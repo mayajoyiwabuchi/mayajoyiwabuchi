@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+- 📫 How to reach me: iwabuchimaya@gmail.com
+- 😄 Pronouns: she/her
+- 🌱 I’m currently learning computer science at the University of Pittsburgh 
+
 <!--
-**mayajoyiwabuchi/mayajoyiwabuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
