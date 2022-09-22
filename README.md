@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: iwabuchimaya@gmail.com
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning computer science at the University of Pittsburgh 
+- 🌱 I’m currently studying computer science at the University of Pittsburgh 
 
 <!--
 
